@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f375a7f4.chunk.css",
+    "main.js": "/static/js/main.fbc0a89c.chunk.js",
+    "main.js.map": "/static/js/main.fbc0a89c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90ac4e7f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90ac4e7f.js.map",
+    "static/js/2.2a9b02cc.chunk.js": "/static/js/2.2a9b02cc.chunk.js",
+    "static/js/2.2a9b02cc.chunk.js.map": "/static/js/2.2a9b02cc.chunk.js.map",
+    "static/js/3.1b6a63bf.chunk.js": "/static/js/3.1b6a63bf.chunk.js",
+    "static/js/3.1b6a63bf.chunk.js.map": "/static/js/3.1b6a63bf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f375a7f4.chunk.css.map": "/static/css/main.f375a7f4.chunk.css.map",
+    "static/js/2.2a9b02cc.chunk.js.LICENSE.txt": "/static/js/2.2a9b02cc.chunk.js.LICENSE.txt",
+    "static/media/5d06154c6a9360b7a49538b6_drawkit-grape-pack-illustration-8-transcode.6feb646b.mp4": "/static/media/5d06154c6a9360b7a49538b6_drawkit-grape-pack-illustration-8-transcode.6feb646b.mp4",
+    "static/media/Resume-Joseph-Chinedu.c4d33eb2.pdf": "/static/media/Resume-Joseph-Chinedu.c4d33eb2.pdf",
+    "static/media/github_PNG58.5994b25b.png": "/static/media/github_PNG58.5994b25b.png",
+    "static/media/logo.eb30c655.PNG": "/static/media/logo.eb30c655.PNG",
+    "static/media/myself.7c2a6177.png": "/static/media/myself.7c2a6177.png",
+    "static/media/netlify.58e624b3.png": "/static/media/netlify.58e624b3.png",
+    "static/media/python-django.a07e0585.png": "/static/media/python-django.a07e0585.png",
+    "static/media/tyr-r.8d9ffb10.png": "/static/media/tyr-r.8d9ffb10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ac4e7f.js",
+    "static/js/2.2a9b02cc.chunk.js",
+    "static/css/main.f375a7f4.chunk.css",
+    "static/js/main.fbc0a89c.chunk.js"
+  ]
+}
